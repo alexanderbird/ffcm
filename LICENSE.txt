@@ -1,3 +1,10 @@
+This Software is a derivative of Discourse. All copyright and license documentation 
+applies to the original discourse software (www.discourse.org). All references to 
+"derivative works" or equivalent phrases should be taken to mean this software. Where 
+derivative works clauses do not specify license and copyright, the original license 
+and copyright of Discourse applies to this derivative work as if the copyright and 
+license document said "FFCM Derivative of Discourse" instead of "Discourse"
+        
         GNU GENERAL PUBLIC LICENSE
            Version 2, June 1991
 
